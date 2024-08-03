@@ -1,7 +1,5 @@
 ## Hey, Look here! :wave: 
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zhao2022-Ux&show_icons=true&hide_title=true" />
-
 I'm Zhao Honghao, a office worker from Ningbo, China. I ❤️ code because I am a coder.
 
 -   :hammer_and_pick: CSS/HTML/JavaScript/Vue/Typescript/React/PHP
@@ -23,3 +21,35 @@ Javascript    32 mins         ██░░░░░░░░░░░░░░�
 css           26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 ```
 <!--END_SECTION:waka-->
+
+
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=zhao2022-Ux&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+  
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=zhao2022-Ux&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<br/>
+  
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=zhao2022-Ux&theme=github-compact&hide_border=true&area=true">
+<br/>
+  
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhao2022-Ux&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<br/>
+  
+<!-- https://github.com/tandpfun/skill-icons -->
+<img align="center" src="https://skillicons.dev/icons?i=c,cpp,py,html,md&theme=light" />
+</p>
+ 
+<!-- https://github.com/badges/shields -->
+<p align="center">
+<a href="https://github.com/zhao2022-Ux"><img src="https://img.shields.io/badge/GitHub-ni--hao250-blue?logo=github" /></a>
+<img src="https://img.shields.io/badge/QQ-1023061394-green?logo=tencentqq" />
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<img src="https://komarev.com/ghpvc/?username=zhao2022-Ux&abbreviated=true&color=yellow" />
+</p>
+ 
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+</p>
