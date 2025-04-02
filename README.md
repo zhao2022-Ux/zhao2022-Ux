@@ -1,7 +1,7 @@
 
 ## Hey, Look here! :wave: 
 
-I'm Heikeshaonian, a office worker from Ningbo, China. I ❤️ code because I am a coder.
+I'm Heishao, a office worker from Ningbo, China. I ❤️ code because I am a coder.
 
 -   :hammer_and_pick: CSS/HTML/JavaScript/Vue/Typescript/React/PHP
 -   :package: Building 
